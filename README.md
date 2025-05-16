@@ -1,6 +1,6 @@
-## heyy im Jack but People also call me Ritchie or William## heyy im Jack but People also call me Ritchie or William
+## heyy im Jack but People also call me Ritchie or William
 
-list days : 
+dni list : 
 - Fruitcake shippers (the toxic ones)
 - People who ship adults with kids yuck
 - people who vent all the time and the only thing they do
@@ -12,7 +12,7 @@ list days :
 - people who are emotionaly immature
 - people who say the n word when theyr white
 - people that will judge u for shipping a hetero ship
-int list ig ?? : :
+int list ig ?? : 
 - people who listen to msi (and dont support)
 - alt people / make diy
 -artists
