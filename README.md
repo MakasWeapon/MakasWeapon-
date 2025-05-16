@@ -12,7 +12,9 @@ dni list :
 - people who are emotionaly immature
 - people who say the n word when theyr white
 - people that will judge u for shipping a hetero ship
+
 int list ig ?? : 
+
 - people who listen to msi (and dont support)
 - alt people / make diy
 -artists
