@@ -7,7 +7,7 @@ dni list :
 - the ones that type with caps all the time
 - Racists
 - homophobes (unless its a joke)
-- transphobes heavy days
+- transphobes heavy dni
 - trump supporters
 - people who are emotionaly immature
 - people who say the n word when theyr white
