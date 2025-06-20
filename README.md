@@ -23,7 +23,5 @@ int list ig ?? :
 - lgbtq
 - people who dont judge quickly or at least try to
 - nice/kind ppl
-- people who get sarcasm and dont get offended by it
-
-<!--
-**NightGuard-Fox/NightGuard-Fox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub 
+- people who get sarcasm and dont get offended 
+**MakasWeapon/MakasWeapon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub 
